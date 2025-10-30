@@ -1,0 +1,10 @@
+Git & Github
+
+- What is Git version control?
+- What is Github?
+- How to use Git in both Terminal and VS code UI?
+    - Staging
+    - Commit
+    - Push
+    - Pull
+- How to upload assignment to Github instead of Google Drive?
